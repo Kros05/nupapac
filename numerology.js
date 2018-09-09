@@ -35,8 +35,7 @@ function combineLetterNumbers(str) {
 	while (result > 9) {
 		result = ('' + result).split('')
 			.map(item => Number(item))
-			.reduce((a, b) => a + b, 0);
-		console.log(result);	
+			.reduce((a, b) => a + b, 0);	
 	}
 
 	return result;
