@@ -1,0 +1,5 @@
+#Ignore node setup files
+node_modules/*
+
+#etc.
+literature/*

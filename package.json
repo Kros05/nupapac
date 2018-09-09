@@ -1,0 +1,26 @@
+{
+  "name": "nupapac",
+  "version": "0.0.1",
+  "description": "Numerologic Planetary Patronage Calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kros05/nupapac.git"
+  },
+  "keywords": [
+    "numerologic",
+    "planet",
+    "patronage",
+    "mystic",
+    "occult"
+  ],
+  "author": "Kros05",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kros05/nupapac/issues"
+  },
+  "homepage": "https://github.com/Kros05/nupapac#readme"
+}
