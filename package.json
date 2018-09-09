@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/Kros05/nupapac#readme",
   "dependencies": {
-    "readline-sync": "^1.4.9"
+    "readline-sync": "^1.4.9",
+    "replaceall": "^0.1.6"
   }
 }
