@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/Kros05/nupapac/issues"
   },
-  "homepage": "https://github.com/Kros05/nupapac#readme"
+  "homepage": "https://github.com/Kros05/nupapac#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
 }
